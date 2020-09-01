@@ -1,3 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://rapha:oKxJdHQQl1Ood4Me@cluster0.asmwi.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority"
+	"mongoURI": "mongodb+srv://rapha:oKxJdHQQl1Ood4Me@cluster0.asmwi.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
 }
